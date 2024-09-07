@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="array_programs" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/array_programs" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/array_programs" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="2d_array.cpp" />
+		<Unit filename="array_one.cpp" />
+		<Unit filename="average_of_array.cpp" />
+		<Unit filename="check_equal_arrays.cpp" />
+		<Unit filename="common_elements.cpp" />
+		<Unit filename="copy_and_reverse.cpp" />
+		<Unit filename="find_max_element.cpp" />
+		<Unit filename="find_min_element.cpp" />
+		<Unit filename="join_p.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="merging_array.cpp" />
+		<Unit filename="remove_all_occourence_of_element.cpp" />
+		<Unit filename="remove_duplicates.cpp" />
+		<Unit filename="reverse_array.cpp" />
+		<Unit filename="rotation_upto_some_idices.cpp" />
+		<Unit filename="sum_all_elements.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

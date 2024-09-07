@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1725731066 source:c:\users\18pan\onedrive\desktop\cpp geeks\array_programs\array_one.cpp
+	<iostream>
+	"join_p.h"
+
+1725731066 c:\users\18pan\onedrive\desktop\cpp geeks\array_programs\join_p.h
+
+1725731066 source:c:\users\18pan\onedrive\desktop\cpp geeks\array_programs\main.cpp
+	<iostream>
+	"join_p.h"
+
+1724768582 source:c:\users\18pan\onedrive\desktop\cpp geeks\array_programs\sum_all_elements.cpp
+	<iostream>
+	"join_p.h"
+
+1725730022 source:c:\users\18pan\onedrive\desktop\cpp geeks\array_programs\find_max_element.cpp
+	<iostream>
+	<climits>
+	"join_p.h"
+
+1725730022 source:c:\users\18pan\onedrive\desktop\cpp geeks\array_programs\find_min_element.cpp
+	<iostream>
+	<climits>
+	"join_p.h"
+
+1725188969 source:c:\users\18pan\onedrive\desktop\cpp geeks\array_programs\reverse_array.cpp
+
+1725730537 source:c:\users\18pan\onedrive\desktop\cpp geeks\array_programs\check_equal_arrays.cpp
+	<iostream>
+	"join_p.h"
+
+1725730537 source:c:\users\18pan\onedrive\desktop\cpp geeks\array_programs\average_of_array.cpp
+	<iostream>
+	"join_p.h"
+
+1725519230 source:c:\users\18pan\onedrive\desktop\cpp geeks\array_programs\merging_array.cpp
+	<iostream>
+	"join_p.h"
+
+1725730536 source:c:\users\18pan\onedrive\desktop\cpp geeks\array_programs\common_elements.cpp
+	<iostream>
+	"join_p.h"
+
+1725714466 source:c:\users\18pan\onedrive\desktop\cpp geeks\array_programs\remove_duplicates.cpp
+	<iostream>
+	"join_p.h"
+
+1725718804 source:c:\users\18pan\onedrive\desktop\cpp geeks\array_programs\remove_all_occourence_of_element.cpp
+	<iostream>
+	"join_p.h"
+
+1725721266 source:c:\users\18pan\onedrive\desktop\cpp geeks\array_programs\rotation_upto_some_idices.cpp
+	<iostream>
+	"join_p.h"
+
+1725730537 source:c:\users\18pan\onedrive\desktop\cpp geeks\array_programs\copy_and_reverse.cpp
+	<iostream>
+	"join_p.h"
+
+1725729566 source:c:\users\18pan\onedrive\desktop\cpp geeks\array_programs\2d_array.cpp
+	<iostream>
+	"join_p.h"
+
